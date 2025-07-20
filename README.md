@@ -1,6 +1,6 @@
 # StayZio Major Project
 
-A full-stack web application inspired by Airbnb that allows users to browse, book, and list unique stays around the world.
+A full-stack web application that allows users to browse, book, and list unique stays around the world.
 Built with the MEN stack (MongoDB, Express, Node.js) along with HTML, CSS, and JavaScript, Bootstrap and structured using the MVC architecture for clean, maintainable code.
 
 🛠️ Tech Stack
