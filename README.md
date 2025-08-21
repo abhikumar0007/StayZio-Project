@@ -15,7 +15,7 @@ Architecture: MVC (Model-View-Controller)
 🔑 Key Features
 🔍 Browse Listings: View available properties with details like price, description, and location.
 
-🧾 User Authentication: Register and log in securely (using sessions or JWT).
+🧾 User Authentication: Register and log in securely (using sessions or Passport.js).
 
 📤 List Your Property: Hosts can add, edit, or delete listings.
 
