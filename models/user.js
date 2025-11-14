@@ -10,6 +10,10 @@ const userSchema = new Schema({
     },
 });
 
+
 userSchema.plugin(passportLocalMongoose);
 
 module.exports = mongoose.model('User', userSchema);
+
+
+// i am using rest api in our project and mongodb using for database so how to activate our search bar to search things in our website so give me updated code . and our website is build on mongodb, expressjs, nodejs, ejs
